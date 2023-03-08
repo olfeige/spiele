@@ -106,6 +106,12 @@
         "Zeit": []
     },
     {
+        "Kategorien": ["01", "30", "40", "50"],
+        "Name": "Halt mal Kurz",
+        "Zeit": [20],
+        "Autor": "Marc-Uwe Kling"
+    },
+    {
         "Kategorien": ["05", "10"],
         "Name": "IQ Stars",
         "Zeit": []
@@ -328,7 +334,14 @@
     {
         "Kategorien": ["(ab 6 Spielern)", "05", "50", "60"],
         "Name": "Werwölfe",
-        "Zeit": [10]
+        "Zeit": [10],
+        "aendern": true
+    },
+    {
+        "Kategorien": ["(Bis zu 10 Spielern)", "01", "30", "40", "50", "60"],
+        "Name": "Werwölfe Vollmondnacht",
+        "Zeit": [10],
+        "Autor": ["Ted Alspach", "Akihisa Okui"]
     },
     {
         "Kategorien": ["03", "20", "30", "40"],
