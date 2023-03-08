@@ -1,2 +1,2 @@
-# spiele-magazin
-You can see your games
+# spiele
+Die ist eine Sammlung verschiedener Spiele (auf Deutsch)
