@@ -48,7 +48,14 @@
     {
         "Kategorien": ["03", "30", "40"],
         "Name": "Catan",
-        "Zeit": [75]
+        "Zeit": [75],
+        "Autor": "Klaus Teuber"
+    },
+    {
+        "Kategorien": ["01", "20"],
+        "Name": "Catan, das Duell",
+        "Zeit": [30, 75],
+        "Autor": "Klaus Teuber"
     },
     {
         "Kategorien": ["03", "20", "30", "40"],
