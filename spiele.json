@@ -1,378 +1,380 @@
-
-[
-    {
-        "Kategorien": ["05", "20", "30", "40"],
-        "Name": "3 Gewinnt",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["05", "20"],
-        "Name": "4 Gewinnt",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40", "50"],
-        "Name": "6 nimt Junior",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["(Bis zu 12 Spielern)", "05", "40", "50", "60"],
-        "Name": "Activity",
-        "Zeit": [40]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Auf Verbrecherjagd",
-        "Zeit": [15]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "03", "20", "30", "40", "50", "60"],
-        "Name": "Ausbrecher AG",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Bärenpark",
-        "Zeit": [30, 45]
-    },
-    {
-        "Kategorien": ["01", "30", "40", "50"],
-        "Name": "Bohnanza",
-        "Zeit": [45]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "04", "20", "30", "40", "50", "60"],
-        "Name": "Carcasonne",
-        "Zeit": [30, 45]
-    },
-    {
-        "Kategorien": ["03", "30", "40"],
-        "Name": "Catan",
-        "Zeit": [75],
-        "Autor": "Klaus Teuber"
-    },
-    {
-        "Kategorien": ["01", "20"],
-        "Name": "Catan, das Duell",
-        "Zeit": [30, 75],
-        "Autor": "Klaus Teuber"
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Cool-Runings",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["03", "20"],
-        "Name": "Dame",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["02", "20", "30", "40"],
-        "Name": "Das verflixte Hexenkraut Spiel",
-        "Zeit": [15]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Das Wissens-ABC",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 12 Spielern)", "05", "20", "30", "40", "50", "60"],
-        "Name": "Dobble",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "04", "20", "30", "40"],
-        "Name": "Domino",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "40", "50"],
-        "Name": "Doppelkopf",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40"],
-        "Name": "Drecksau",
-        "Zeit": [10]
-    },
-    {
-        "Kategorien": ["(Bis zu 8 Spielern)", "04", "20", "30", "40", "50", "60"],
-        "Name": "Eckolo",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "05", "10", "20", "30", "40", "50", "60"],
-        "Name": "Exit",
-        "Zeit": [45, 90]
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Geister, Geister, Schatzsuchmeister",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "30", "40", "50"],
-        "Name": "Halt mal Kurz",
-        "Zeit": [20],
-        "Autor": "Marc-Uwe Kling"
-    },
-    {
-        "Kategorien": ["05", "10"],
-        "Name": "IQ Stars",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 7 Spielern)", "05", "30", "40", "50", "60"],
-        "Name": "Just one",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["02", "20", "30", "40"],
-        "Name": "Kakerlakak",
-        "Zeit": [10, 20]
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40", "50", "60"],
-        "Name": "Kakerlakensalat",
-        "Zeit": [10, 20]
-    },
-    {
-        "Kategorien": ["04", "20", "30", "40", "50"],
-        "Name": "Kingdomino",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 8 Spielern)", "04", "30", "40", "50", "60"],
-        "Name": "Kleiner Teddy",
-        "Zeit": [10]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Klima is(s)t Trumpf",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40"],
-        "Name": "Können Schweine fliegen?",
-        "Zeit": [15]
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "02", "20", "30", "40", "50", "60"],
-        "Name": "Kniffel",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "02", "20", "30", "40", "50", "60"],
-        "Name": "Kuh und co",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Lama",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["02", "20", "30", "40", "50"],
-        "Name": "Las Vegas",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Lotti Karotti",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "02", "20", "30", "40", "50", "60"],
-        "Name": "Maier",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["05", "20", "30", "40", "50"],
-        "Name": "Mastermind",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 10 Spielern)", "04", "20", "30", "40", "50", "60"],
-        "Name": "Memory",
-        "Zeit": [15, 30]
-    },
-    {
-        "Kategorien": ["(bis zu 6 Spielern)", "20", "30", "40", "50", "60"],
-        "Name": "Mensch ärgere Dich nicht",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["05", "20", "30", "40"],
-        "Name": "Micado",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["03", "30", "40"],
-        "Name": "Monopoly",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Öl Magnat",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Phase 10",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40"],
-        "Name": "Punkte Salat",
-        "Zeit": [15, 30]
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Quartett",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "20", "30", "40", "50", "60"],
-        "Name": "Rechenfuchs",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 10 Spielern)", "05", "10", "20", "30", "40", "50", "60"],
-        "Name": "RushHour",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Savannah café",
-        "Zeit": [45]
-    },
-    {
-        "Kategorien": ["03", "20"],
-        "Name": "Schach",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["02", "20", "30", "40"],
-        "Name": "Schnabt Hubi!",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Schwarzer Schurke",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
-        "Name": "Scottland-Yard",
-        "Zeit": [45]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Schnipp Schnapp",
-        "Zeit": [10, 20]
-    },
-    {
-        "Kategorien": ["03", "30", "40", "50"],
-        "Name": "Scottland-Yard - Das Kartenspiel",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
-        "Name": "Seefahrer",
-        "Zeit": [45, 60]
-    },
-    {
-        "Kategorien": ["05", "10"],
-        "Name": "Solohalma",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
-        "Name": "Spiel das Lebens",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["05", "20", "30", "40"],
-        "Name": "Stäbchenspiel",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["04", "20", "30", "40"],
-        "Name": "Sudoku",
-        "Zeit": [45]
-    },
-    {
-        "Kategorien": ["01", "20", "30", "40"],
-        "Name": "TONNE voll!",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["05", "10", "20", "30", "40"],
-        "Name": "Ubongo",
-        "Zeit": [15]
-    },
-    {
-        "Kategorien": ["(Bis zu 10 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Uno",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 8 Spielern)", "01", "20", "30", "40", "50", "60"],
-        "Name": "Uno - Junior",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 6 Spielern)", "05", "20", "30", "40", "50", "60"],
-        "Name": "via Magica",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["(Bis zu 8 Spielern)", "01", "30", "40", "50", "60"],
-        "Name": "Was bin ich? - Computer und Technik",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(Bis zu 10 Spielern)", "05", "20", "30", "40", "50", "60"],
-        "Name": "Wer weiß denn Sowas?",
-        "Zeit": [20]
-    },
-    {
-        "Kategorien": ["(ab 6 Spielern)", "05", "50", "60"],
-        "Name": "Werwölfe",
-        "Zeit": [10],
-        "aendern": true
-    },
-    {
-        "Kategorien": ["(Bis zu 10 Spielern)", "01", "30", "40", "50", "60"],
-        "Name": "Werwölfe Vollmondnacht",
-        "Zeit": [10],
-        "Autor": ["Ted Alspach", "Akihisa Okui"]
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Wissen & Lachen - Unsere Erde",
-        "Zeit": []
-    },
-    {
-        "Kategorien": ["(bis zu 6 Spielern)", "01", "30", "40", "50", "60"],
-        "Name": "Wizard",
-        "Zeit": [45]
-    },
-    {
-        "Kategorien": ["01", "02", "20", "30", "40"],
-        "Name": "Würfel-WG",
-        "Zeit": [30]
-    },
-    {
-        "Kategorien": ["03", "20", "30", "40"],
-        "Name": "Zwergenhut",
-        "Zeit": [20, 120]
-    },
-    {
-        "Kategorien": ["04", "20", "20", "30", "40"],
-        "Name": "Zwoggel",
-        "Zeit": [10, 30]
-    }
-]
+{
+    "version": 1.0,
+    "liste": [
+        {
+            "Kategorien": ["05", "20", "30", "40"],
+            "Name": "3 Gewinnt",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["05", "20"],
+            "Name": "4 Gewinnt",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40", "50"],
+            "Name": "6 nimt Junior",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["(Bis zu 12 Spielern)", "05", "40", "50", "60"],
+            "Name": "Activity",
+            "Zeit": [40]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Auf Verbrecherjagd",
+            "Zeit": [15]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "03", "20", "30", "40", "50", "60"],
+            "Name": "Ausbrecher AG",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Bärenpark",
+            "Zeit": [30, 45]
+        },
+        {
+            "Kategorien": ["01", "30", "40", "50"],
+            "Name": "Bohnanza",
+            "Zeit": [45]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "04", "20", "30", "40", "50", "60"],
+            "Name": "Carcasonne",
+            "Zeit": [30, 45]
+        },
+        {
+            "Kategorien": ["03", "30", "40"],
+            "Name": "Catan",
+            "Zeit": [75],
+            "Autor": "Klaus Teuber"
+        },
+        {
+            "Kategorien": ["01", "20"],
+            "Name": "Catan, das Duell",
+            "Zeit": [30, 75],
+            "Autor": "Klaus Teuber"
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Cool-Runings",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["03", "20"],
+            "Name": "Dame",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["02", "20", "30", "40"],
+            "Name": "Das verflixte Hexenkraut Spiel",
+            "Zeit": [15]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Das Wissens-ABC",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 12 Spielern)", "05", "20", "30", "40", "50", "60"],
+            "Name": "Dobble",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "04", "20", "30", "40"],
+            "Name": "Domino",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "40", "50"],
+            "Name": "Doppelkopf",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40"],
+            "Name": "Drecksau",
+            "Zeit": [10]
+        },
+        {
+            "Kategorien": ["(Bis zu 8 Spielern)", "04", "20", "30", "40", "50", "60"],
+            "Name": "Eckolo",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "05", "10", "20", "30", "40", "50", "60"],
+            "Name": "Exit",
+            "Zeit": [45, 90]
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Geister, Geister, Schatzsuchmeister",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "30", "40", "50"],
+            "Name": "Halt mal Kurz",
+            "Zeit": [20],
+            "Autor": "Marc-Uwe Kling"
+        },
+        {
+            "Kategorien": ["05", "10"],
+            "Name": "IQ Stars",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 7 Spielern)", "05", "30", "40", "50", "60"],
+            "Name": "Just one",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["02", "20", "30", "40"],
+            "Name": "Kakerlakak",
+            "Zeit": [10, 20]
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40", "50", "60"],
+            "Name": "Kakerlakensalat",
+            "Zeit": [10, 20]
+        },
+        {
+            "Kategorien": ["04", "20", "30", "40", "50"],
+            "Name": "Kingdomino",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 8 Spielern)", "04", "30", "40", "50", "60"],
+            "Name": "Kleiner Teddy",
+            "Zeit": [10]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Klima is(s)t Trumpf",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40"],
+            "Name": "Können Schweine fliegen?",
+            "Zeit": [15]
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "02", "20", "30", "40", "50", "60"],
+            "Name": "Kniffel",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "02", "20", "30", "40", "50", "60"],
+            "Name": "Kuh und co",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Lama",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["02", "20", "30", "40", "50"],
+            "Name": "Las Vegas",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Lotti Karotti",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "02", "20", "30", "40", "50", "60"],
+            "Name": "Maier",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["05", "20", "30", "40", "50"],
+            "Name": "Mastermind",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 10 Spielern)", "04", "20", "30", "40", "50", "60"],
+            "Name": "Memory",
+            "Zeit": [15, 30]
+        },
+        {
+            "Kategorien": ["(bis zu 6 Spielern)", "20", "30", "40", "50", "60"],
+            "Name": "Mensch ärgere Dich nicht",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["05", "20", "30", "40"],
+            "Name": "Micado",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["03", "30", "40"],
+            "Name": "Monopoly",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Öl Magnat",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Phase 10",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40"],
+            "Name": "Punkte Salat",
+            "Zeit": [15, 30]
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Quartett",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "20", "30", "40", "50", "60"],
+            "Name": "Rechenfuchs",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 10 Spielern)", "05", "10", "20", "30", "40", "50", "60"],
+            "Name": "RushHour",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Savannah café",
+            "Zeit": [45]
+        },
+        {
+            "Kategorien": ["03", "20"],
+            "Name": "Schach",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["02", "20", "30", "40"],
+            "Name": "Schnabt Hubi!",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Schwarzer Schurke",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
+            "Name": "Scottland-Yard",
+            "Zeit": [45]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Schnipp Schnapp",
+            "Zeit": [10, 20]
+        },
+        {
+            "Kategorien": ["03", "30", "40", "50"],
+            "Name": "Scottland-Yard - Das Kartenspiel",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
+            "Name": "Seefahrer",
+            "Zeit": [45, 60]
+        },
+        {
+            "Kategorien": ["05", "10"],
+            "Name": "Solohalma",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "03", "30", "40", "50", "60"],
+            "Name": "Spiel das Lebens",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["05", "20", "30", "40"],
+            "Name": "Stäbchenspiel",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["04", "20", "30", "40"],
+            "Name": "Sudoku",
+            "Zeit": [45]
+        },
+        {
+            "Kategorien": ["01", "20", "30", "40"],
+            "Name": "TONNE voll!",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["05", "10", "20", "30", "40"],
+            "Name": "Ubongo",
+            "Zeit": [15]
+        },
+        {
+            "Kategorien": ["(Bis zu 10 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Uno",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 8 Spielern)", "01", "20", "30", "40", "50", "60"],
+            "Name": "Uno - Junior",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 6 Spielern)", "05", "20", "30", "40", "50", "60"],
+            "Name": "via Magica",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["(Bis zu 8 Spielern)", "01", "30", "40", "50", "60"],
+            "Name": "Was bin ich? - Computer und Technik",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(Bis zu 10 Spielern)", "05", "20", "30", "40", "50", "60"],
+            "Name": "Wer weiß denn Sowas?",
+            "Zeit": [20]
+        },
+        {
+            "Kategorien": ["(ab 6 Spielern)", "05", "50", "60"],
+            "Name": "Werwölfe",
+            "Zeit": [10],
+            "aendern": true
+        },
+        {
+            "Kategorien": ["(Bis zu 10 Spielern)", "01", "30", "40", "50", "60"],
+            "Name": "Werwölfe Vollmondnacht",
+            "Zeit": [10],
+            "Autor": ["Ted Alspach", "Akihisa Okui"]
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Wissen & Lachen - Unsere Erde",
+            "Zeit": []
+        },
+        {
+            "Kategorien": ["(bis zu 6 Spielern)", "01", "30", "40", "50", "60"],
+            "Name": "Wizard",
+            "Zeit": [45]
+        },
+        {
+            "Kategorien": ["01", "02", "20", "30", "40"],
+            "Name": "Würfel-WG",
+            "Zeit": [30]
+        },
+        {
+            "Kategorien": ["03", "20", "30", "40"],
+            "Name": "Zwergenhut",
+            "Zeit": [20, 120]
+        },
+        {
+            "Kategorien": ["04", "20", "20", "30", "40"],
+            "Name": "Zwoggel",
+            "Zeit": [10, 30]
+        }
+    ]   
+}
